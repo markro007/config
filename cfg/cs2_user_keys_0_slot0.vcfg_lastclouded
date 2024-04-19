@@ -1,0 +1,13 @@
+"config"
+{
+	"bindings"
+	{
+		"v"		"slot10"
+		"MOUSE4"		"<unbound>"
+		"x"		"+voicerecord"
+		"8"		"<unbound>"
+		"c"		"slot8"
+		"0"		"<unbound>"
+		"MOUSE5"		"+jumpaction;+throwaction;"
+	}
+}
